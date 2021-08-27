@@ -1,5 +1,5 @@
-👋 Hi, I’m Mahid
-👀 Programming Enthusiast since 2017 with experience in wordpress development and website design
+👋 Hi, I’m Mahid<br>
+👀 Programming Enthusiast since 2017 with experience in wordpress development and website design<br>
 🌱 I’m currently learning advanced javascript
 
 <!---
