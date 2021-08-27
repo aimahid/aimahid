@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mahid
-- 👀 I’m a web designer and wordpress developer learning new technology stack in every opportunity
-- 🌱 I’m currently learning advanced javascript
+👋 Hi, I’m Mahid
+👀 Programming Enthusiast since 2017 with experience in wordpress development and website design
+🌱 I’m currently learning advanced javascript
 
 <!---
 aimahid/aimahid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
